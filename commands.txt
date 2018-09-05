@@ -1,0 +1,46 @@
+cd -> change directory -> move to a different folder
+ls -> list -> list documents and folders under current directory
+mkdir -> make directory -> makes a new folder
+touch -> makes a new file
+code -> edit files
+
+. => current folder
+.. => back a level
+
+ctrl + c => break for a new command
+
+mv -> move -> rename and/or move
+cp -> copy -> copy a file
+rm -> remove -> permanently deletes a file
+rmdir -> remove directory -> only removes empty directories
+
+* is wildcard
+
+git init - initialize
+git status - status update
+
+git commit -m "change" - commit
+git log - log of commits
+git commit --amend -m "New name"
+git commit --amend --no-edit
+
+Shortcuts-
+alias gs='git status'
+alias ga='git add '
+alias gb='git branch '
+alias gc='git commit -m '
+alias gd='git diff'
+
+alias go='git checkout '
+
+#alias gl='git log' CoderWall
+
+alias tree='cmd //c "tree /f /a"'
+
+source .bash_profile
+
+import java.util.Scanner;
+import java.text.*;
+
+git pull
+git push origin master
