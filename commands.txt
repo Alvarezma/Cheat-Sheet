@@ -44,3 +44,19 @@ import java.text.*;
 
 git pull
 git push origin master
+
+--general keyboard shortcuts
+shift - select
+ctrl + d - multible curser mode
+alt tab - program select
+windows + arrow keys - move programs on screen
+windows + tab - bring up programs above others
+
+--Visual code
+ctrl p - search for file
+alt shift - dulpcate lines
+alt arrow keys - move lines
+ctrl w - close files or tabs
+ctrl tab - move through open tabs
+
+visual studio code shortcuts look up
