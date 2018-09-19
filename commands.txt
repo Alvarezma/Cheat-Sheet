@@ -58,5 +58,17 @@ alt shift - dulpcate lines
 alt arrow keys - move lines
 ctrl w - close files or tabs
 ctrl tab - move through open tabs
+ctrl shift k = kill a line
 
 visual studio code shortcuts look up
+
+
+    For Loop Example
+    
+String str = "abababbabbabbbaabab"
+int count = 0;
+for (int = 0; i < str.length; i++)  {
+    if (str.charAt(i) == 'b' ){
+        count = count + 1;
+    }
+}
