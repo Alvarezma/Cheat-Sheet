@@ -16,6 +16,7 @@ rmdir -> remove directory -> only removes empty directories
 
 * is wildcard
 
+For setting these up go to ~.bash_profile
 git init - initialize
 git status - status update
 
